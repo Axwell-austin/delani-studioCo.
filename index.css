@@ -3,4 +3,13 @@ div{
 }
 #shoes{
     background-image: url(./Assets/h_img.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-size: x-small;
 }
