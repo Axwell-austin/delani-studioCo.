@@ -21,3 +21,9 @@ h2{
     background-image: url(./Assets/s_image.jpg);
     color: white;
 }
+#icons{
+    display: flex;
+   justify-content: space-around;
+   text-align: center;
+   padding: 100px;
+}
