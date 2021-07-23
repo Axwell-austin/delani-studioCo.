@@ -1,3 +1,6 @@
 div{
     border: 2px dotted green;
 }
+#shoes{
+    background-image: url(./Assets/h_img.jpg);
+}
