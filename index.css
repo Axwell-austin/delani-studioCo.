@@ -50,3 +50,15 @@ h2{
     font-weight: 400;
     font-size: 50px;
 }
+.content-overlay_1 {
+    background: black;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
+}
