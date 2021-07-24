@@ -246,10 +246,9 @@ h2{
 }
 .second{
     display: flex;
- justify-content: space-evenly;
+    justify-content: space-around;
 }
 .portfolio{
-    padding: 100px;
     padding-left: 500px;
     padding-right: 500px;
 }
