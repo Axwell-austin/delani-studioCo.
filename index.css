@@ -6,6 +6,24 @@ div{
     background-size: cover;
     color: white;
     text-align: center;
+    height: 690px;
+}
+.logo{
+    padding-top: 50px;
+}
+.mouse{
+    padding-top: 30px;
+}
+.welcome{
+    margin-top: 20px;
+}
+.welcome h1{
+  font-size: 70px;
+  font-weight: 400;
+}
+.welcome h2{
+    font-size: 15px;
+    font-weight: 400;
 }
 h1{
     font-weight: bold;
