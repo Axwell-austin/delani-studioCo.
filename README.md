@@ -6,7 +6,8 @@ This project is a web application for Delani studio that shows details about the
 ## Technologies Used
 HTML, CSS, JAVASCRIPT, JQUERY and a little of BOOTSTRAP.
 ## Known Bugs
-API does not function well
+API does not function well.
+The site is not very responsive on some viewports.
 ## Support and contact details
 Contact austinaxwell@gmail.com and austin.onyango@student.moringaschool.com for queries.
 ### License
