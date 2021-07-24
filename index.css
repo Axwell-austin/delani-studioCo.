@@ -33,21 +33,11 @@ textarea {
     background-color: transparent;
     color: white;
 }
-
-h6 {
-    font-weight: bold;
-}
-
 .content-overlay_1 {
-    background: rgba(0, 0, 0, 0.7);
+    background: black;
     position: absolute;
     height: 100%;
     width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
     display: none;
 }
 
@@ -68,41 +58,26 @@ h6 {
 }
 
 .content-overlay_4 {
-    background: rgba(0, 0, 0, 0.7);
+    background: black;
     position: absolute;
     height: 100%;
     width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
     display: none;
 }
 
 .content-overlay_5 {
-    background: rgba(0, 0, 0, 0.7);
+    background: black;
     position: absolute;
     height: 100%;
     width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
     display: none;
 }
 
 .content-overlay_6 {
-    background: rgba(0, 0, 0, 0.7);
+    background: black;
     position: absolute;
     height: 100%;
     width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
     display: none;
 }
 
@@ -215,13 +190,6 @@ h6 {
     display: none;
 }
 
-h3 {
-    color: #fff;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5em;
-    text-transform: uppercase;
-}
 button {
     background-color: transparent;
 }
