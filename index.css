@@ -33,24 +33,29 @@ textarea {
     background-color: transparent;
     color: white;
 }
+button {
+    background-color: transparent;
+}
 .content-overlay_1 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
+    opacity: 1;
     display: none;
 }
 
 .content-overlay_2 {
-    background:black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
+    opacity: 1;
     width: 100%;
     display: none;
 }
 
 .content-overlay_3 {
-    background: black;
+    background: rgba(206, 180, 180, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -58,31 +63,34 @@ textarea {
 }
 
 .content-overlay_4 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
+    opacity: 1;
     width: 100%;
     display: none;
 }
 
 .content-overlay_5 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
+    opacity: 1;
     display: none;
 }
 
 .content-overlay_6 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
+    opacity: 1;
     display: none;
 }
 
 .content-overlay_7 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -91,11 +99,12 @@ textarea {
 }
 
 .content-overlay_8 {
-    background: black;
+    background: rgba(236, 104, 104, 0.13);
     position: absolute;
     height: 100%;
     width: 100%;
     display: none;
+    opacity: 1;
 }
 
 .content-title {
@@ -188,8 +197,4 @@ textarea {
     top: 50%;
     left: 50%;
     display: none;
-}
-
-button {
-    background-color: transparent;
 }
