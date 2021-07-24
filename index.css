@@ -1,157 +1,151 @@
 div{
     border: 2px dotted green;
 }
-#shoes{
+.welcome {
     background-image: url(./Assets/h_img.jpg);
     background-size: cover;
     color: white;
-    text-align: center;
-    height: 690px;
 }
-.logo{
-    padding-top: 50px;
+
+.about {
+    background-image: url(./Assets/s_image.jpg);
+    background-size: cover;
+    color: white;
 }
-.mouse{
-    padding-top: 30px;
+
+.contact {
+    background-image: url(./Assets/c_image.jpg);
+    background-size: cover;
+    color: white;
 }
-.welcome{
-    margin-top: 20px;
+
+input {
+    width: 100%;
+    background-color: transparent;
 }
-.welcome h1{
-  font-size: 70px;
-  font-weight: 400;
+
+::placeholder {
+    color: white;
 }
-.welcome h2{
-    font-size: 15px;
-    font-weight: 400;
+
+textarea {
+    resize: none;
+    background-color: transparent;
+    color: white;
 }
-h1{
+
+h6 {
     font-weight: bold;
 }
-h2{
-    font-size: x-small;
+
+.content-overlay_1 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
-.about-us{
-    text-align: center;
+
+.content-overlay_2 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
-.services{
-    text-align: center;
-    background-image: url(./Assets/s_image.jpg);
-    color: white;
-    height: 350px;
+
+.content-overlay_3 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
-#services{
-    padding-top: 55px;
+
+.content-overlay_4 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
-#icons{
-    display: flex;
-   justify-content: space-around;
-   text-align: center;
-   padding: 100px;
+
+.content-overlay_5 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
-#white h1{
-    text-align: center;
-    font-weight: 400;
-    font-size: 50px;
+
+.content-overlay_6 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
 }
+
+.content-overlay_7 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
+}
+
+.content-overlay_8 {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    display: none;
+}
+
 .content-title {
     font-weight: 600;
 }
-.content-overlay_1 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-}
-.content-overlay_2 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-  
-}
-.content-overlay_3 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
 
-}
-.content-overlay_4 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-
-}
-.content-overlay_5 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-
-}
-.content-overlay_6 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-  
-}
-.content-overlay_7 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
-
-}
-.content-overlay_8 {
-    background: black;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 1;
- 
-}
 .content-details_1 {
     position: absolute;
     opacity: 1;
@@ -160,7 +154,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-
+    display: none;
 }
 
 .content-details_2 {
@@ -171,7 +165,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-
+    display: none;
 }
 
 .content-details_3 {
@@ -182,7 +176,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    
+    display: none;
 }
 
 .content-details_4 {
@@ -193,7 +187,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-
+    display: none;
 }
 
 .content-details_5 {
@@ -204,7 +198,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
- 
+    display: none;
 }
 
 .content-details_6 {
@@ -215,6 +209,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
+    display: none;
 }
 
 .content-details_7 {
@@ -225,6 +220,7 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
+    display: none;
 }
 
 .content-details_8 {
@@ -235,47 +231,21 @@ h2{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
+    display: none;
 }
-.first{
-    display: flex;
-    justify-content: space-around;
+
+h3 {
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
 }
-.second{
-    display: flex;
-    justify-content: space-around;
+
+.border {
+    border: 1cm solid white;
 }
-.portfolio{
-    padding-left: 500px;
-    padding-right: 500px;
-}
-.portfolio h1{
-text-align: center;
-}
-.table{
-    background-image: url(./Assets/c_image.jpg);
-    background-size: cover;
-    color: white;
-}
-#table h5{
-    text-align: center;
-    font-size: 35px;
-}
-button{
+
+button {
     background-color: transparent;
-    align-items: center;
-    color: white;
-    margin-left: 48%;
-}
-.social{
-    text-align: center;
-}
-.row{
-    display: flex;
-    margin-left: 37%;
-    opacity: 0.2;
-    color: white;
-}
-.message{
-    opacity: 0.2;
-    text-align: center;
 }
