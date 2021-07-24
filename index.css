@@ -255,3 +255,30 @@ h2{
 .portfolio h1{
 text-align: center;
 }
+.table{
+    background-image: url(./Assets/c_image.jpg);
+    background-size: cover;
+    color: white;
+}
+#table h5{
+    text-align: center;
+    font-size: 35px;
+}
+button{
+    background-color: transparent;
+    align-items: center;
+    color: white;
+    margin-left: 48%;
+}
+.social{
+    text-align: center;
+}
+.row{
+    display: flex;
+    margin-left: 37%;
+    opacity: 0.2;
+}
+.message{
+    opacity: 0.2;
+    text-align: center;
+}
